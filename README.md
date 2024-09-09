@@ -1,2 +1,2 @@
 # Asthma-Monitoring
-Monitoring Asthma
+# The platform allows asthmatic patients to be monitored in real time.
