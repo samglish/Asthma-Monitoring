@@ -4,7 +4,6 @@ The platform allows asthmatic patients to be monitored in real time.
 <img src="asthma1.png" width="30%">
 <img src="asthma2.png" width="30%">
 <img src="asthma3.png" width="30%">
-<img src="asthma4.png" width="30%">
 <img src="Gdonnees.png" width="100%">
 <img src="Gdonnees.png" width="100%">
 <img src="Ginfirmier.png" width="100%">
